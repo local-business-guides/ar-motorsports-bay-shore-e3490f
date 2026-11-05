@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/sitemap.xml
+Sitemap: https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/news-sitemap.xml

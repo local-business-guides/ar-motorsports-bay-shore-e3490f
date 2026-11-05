@@ -23,6 +23,9 @@
 - [Motorsports in Bay Shore for Your Next Vehicle](https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/motorsports-in-bay-shore/): Explore motorsports in Bay Shore at AR Motorsports, compare used cars, trucks and SUVs, and plan your visit. Call today to discuss your needs.
 - [Choosing the Best Motorsports Option in Bay Shore](https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/best-motorsports/): Compare the best motorsports fit for your needs at AR Motorsports in Bay Shore. Review cars, trucks and SUVs, then call to plan your visit.
 
+## Newsroom
+- [AR Motorsports Publishes Guide to Motorsports Bay Shore NY](https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/news/2026-11-05-ar-motorsports-publishes-guide-to-motorsports-bay/): AR Motorsports has published a guide to motorsports Bay Shore NY, with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-05)
+
 ## Pages
 - [Motorsports in Bay Shore, New York](https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/): Explore pre-owned cars, trucks, and SUVs with a local team in Bay Shore. Call +1631-333-1233.
 - [About AR Motorsports in Bay Shore](https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/about/): About AR Motorsports, Bay Shore.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/ar-motorsports-bay-shore-e3490f/news/rss.xml)
 - [Main resource site](https://ar-motorsports-bay-shore.localwebsites.chatgpt.site)
